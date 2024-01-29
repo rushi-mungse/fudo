@@ -7,6 +7,7 @@ Welcome to Fudo, a full-stack food delivery web application that leverages micro
 -   [Frontend](https://github.com/rushi-mungse/customer-fudo-frontend.git)
 -   [Auth Microservice](https://github.com/rushi-mungse/auth-service.git)
 -   [Product Microservice](https://github.com/rushi-mungse/product-microservice.git)
+-   [Fudo Backend](https://github.com/rushi-mungse/fudo-backend.git)  
 
 ##### Fudo Web App
 
